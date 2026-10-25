@@ -109,6 +109,101 @@ Alongside software development, I contribute to ICT education and help learners 
 
 ---
 
+## 🚀 Senior Software Engineering & DevOps Skills
+
+### 🏗️ Software Engineering & Architecture
+- Clean Code, SOLID Principles, DRY, KISS, Separation of Concerns
+- Object-Oriented Programming (OOP) & Functional Programming
+- Design Patterns, Refactoring, Technical Debt Management
+- Modular Architecture, Layered Architecture, MVC
+- Monolith vs Microservices, Event-Driven Architecture
+- RESTful API Design, API Versioning, API Documentation
+- System Design, Scalability, Reliability, Maintainability
+- Requirement Analysis, Technical Documentation, Code Reviews
+- Performance Optimization, Error Handling, Logging
+- Backward Compatibility, Reusability, Minimal-Risk Changes
+
+### 💻 Full-Stack Development
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js
+- **UI & Styling:** Tailwind CSS, Responsive Design, Accessibility
+- **Backend:** Node.js, Express.js, NestJS
+- **API & Integration:** REST APIs, Authentication, Authorization, Webhooks
+- **State & Data Fetching:** React Hooks, Context API, Async/Await
+- **Web Fundamentals:** HTTP/HTTPS, DNS, CORS, Cookies, Sessions, JWT
+
+### 🗄️ Database & Data Engineering
+- **Relational:** PostgreSQL, SQL, Neon
+- **NoSQL:** MongoDB, Firebase Firestore
+- Data Modeling, Schema Design, Indexing
+- Query Optimization, Transactions, Constraints
+- Database Migrations, Backup & Recovery
+- Connection Pooling, Pagination, Data Validation
+- Multi-Tenant Data Isolation and Access Control
+
+### ☁️ DevOps, Cloud & Infrastructure
+- **Version Control:** Git, GitHub, Branching Strategies
+- **CI/CD:** GitHub Actions, Automated Build and Test Pipelines
+- **Containers:** Docker, Docker Compose
+- **Web Servers & Networking:** Nginx, Reverse Proxy, DNS, TLS/SSL
+- **Cloud & Deployment:** Vercel, Netlify, Firebase Hosting
+- **Serverless & Edge:** Cloudflare Workers
+- **Linux Fundamentals:** Shell Commands, Processes, Permissions, Environment Variables
+- **Infrastructure as Code:** Terraform fundamentals
+- **Observability:** Application Logs, Metrics, Monitoring, Error Tracking
+- **Reliability:** Health Checks, Rollbacks, Disaster Recovery, Incident Analysis
+- **Deployment Practices:** Development/Staging/Production Environments, Secrets Management
+
+### 🔐 Security & Reliability
+- Secure Authentication and Authorization
+- Role-Based Access Control (RBAC)
+- Input Validation, Output Encoding, Secure Error Handling
+- OWASP Top 10 Awareness
+- XSS, CSRF, SQL Injection and Common Web Vulnerabilities
+- Password Hashing, Token Security, Least-Privilege Access
+- API Rate Limiting, CORS Configuration
+- Environment-Based Configuration and Secret Protection
+- Data Privacy, Audit Logs, Tenant-Level Access Isolation
+
+### 🧪 Testing & Quality Engineering
+- Unit Testing, Integration Testing, End-to-End Testing
+- API Testing and Validation
+- Regression Testing and Bug Reproduction
+- Test-Driven Development (TDD) Fundamentals
+- Automated Testing in CI Pipelines
+- Linting, Formatting, Static Analysis
+- Edge Cases, Error States, Accessibility Checks
+- Production Readiness and Release Verification
+
+### ⚡ Performance & Scalability
+- Core Web Vitals and Frontend Optimization
+- Code Splitting, Lazy Loading, Caching
+- Database Indexing and Query Optimization
+- API Response-Time Optimization
+- Pagination and Efficient Data Fetching
+- CDN, Compression, Asset Optimization
+- Load Management, Rate Limiting, Resource Monitoring
+
+### 🤖 AI-Assisted Engineering
+- AI-Assisted Coding and Debugging
+- AI Coding Agents and Context Engineering
+- Repository Analysis and Architecture Documentation
+- Prompt Engineering for Code Audits
+- Test Generation, Refactoring Assistance, Code Review
+- Human Review, Security Validation and Test-Driven Verification
+
+### 👨‍💻 Senior Engineering Practices
+- Technical Decision-Making and Trade-Off Analysis
+- Architecture Decision Records (ADRs)
+- Breaking Down Complex Requirements into Deliverable Tasks
+- Code Review and Engineering Standards
+- Mentoring, Knowledge Sharing and Technical Documentation
+- Risk Assessment and Incremental Refactoring
+- Estimation, Prioritization and Release Planning
+- Collaboration with Product, QA, Design and Operations Teams
+- Maintainability, Reliability and Long-Term Technical Ownership
+
+
+
 ## 🚀 Featured Projects
 
 ### 1. Automata Pro — Educational Institution Management
